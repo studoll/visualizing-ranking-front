@@ -1,2 +1,2 @@
 # visualizing-ranking-front
-动态轮播组件
+动态轮播组件。
